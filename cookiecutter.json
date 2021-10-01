@@ -1,0 +1,6 @@
+{
+    "repo_name": "CppHelloWorld",
+    "version": "0.1.2",
+    "base_docker": "mcr.microsoft.com/vscode/devcontainers/cpp:0-ubuntu-21.04"
+}
+
